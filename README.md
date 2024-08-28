@@ -1,7 +1,5 @@
 # cars
-an online racing game im making
+fork because my school blocked it
 
-it's pretty sick :)
-
-
+all credit goes to jchabin, original website:
 https://jchabin.github.io/cars/
